@@ -53,35 +53,6 @@ To build the project for production, run:
 - React Toastify
 - CSS Modules
 
-## Project Structure
-
-React-To-Do-Application/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── AddTodoForm.jsx
-│ │ ├── AddTodoForm.module.css
-│ │ ├── EditTodo.jsx
-│ │ ├── EditTodo.module.css
-│ │ ├── Nav.jsx
-│ │ ├── Nav.module.css
-│ │ ├── Todo.jsx
-│ │ ├── Todo.module.css
-│ │ └── TodoList.jsx
-│ ├── pages/
-│ │ ├── About.jsx
-│ │ ├── About.module.css
-│ │ ├── Completed.jsx
-│ │ ├── Completed.module.css
-│ │ ├── Home.jsx
-│ │ ├── Home.module.css
-│ │ └── Layout.jsx
-│ ├── App.jsx
-│ ├── index.css
-│ └── main.jsx
-├── vite.config.js
-└── ...
-
 ## Screenshots
 
 ![Screenshot 2024-06-30 185232](https://github.com/BhanuPrakash43/React-ToDo-Website/assets/118364415/17cb0f96-7382-4060-866d-e7a0d3efdf56)
@@ -93,6 +64,3 @@ React-To-Do-Application/
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests to contribute new features, enhancements, or bug fixes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
